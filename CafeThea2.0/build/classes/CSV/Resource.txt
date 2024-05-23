@@ -1,0 +1,11 @@
+resourceName,resourceCost,resourceQuantity
+"Vegetables",2100,"25kg"
+"Meat",10462,"30kg"
+"Herbs and Spices",1750,30
+"Condiments",1500,50
+"Fruits",2700,70
+"Fish",4000,"30kg"
+"Eggs and Milk product",2000,50
+"Pasta and Rice",2500,20
+"Grains and Baking products",3400,30
+"Fats and Olis",4220,15

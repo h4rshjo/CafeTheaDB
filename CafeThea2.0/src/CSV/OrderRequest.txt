@@ -1,0 +1,11 @@
+deliveryMode,serviceInstruction,totalCost
+"Dine In","Make sure the food is taken out after the toast.",20000
+"N/A","Just wait for the host's signal when to take out the food, just be prepared",75000
+"Dine In","N/A",25000
+"Dine In","Serve out food before the main event",38500
+"Pick up","Gonna pick up 30 mins before the agreed time",14000
+"N/A","N/A",28000
+"Dine In","N/A",101000
+"Pick up","Will pick up around 5pm",25000
+"Delivery","Please deliver before lunch time",8000
+"Delivery","N/A",25000

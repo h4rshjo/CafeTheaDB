@@ -1,0 +1,11 @@
+customerName,customerContact,customerAddress
+"Paolo Nebres",9494277346,"Antipolo City"
+"Heiven Paras",9613359132,"Baguio City"
+"Naj Santos",9989121635,"Cebu City"
+"Thomas Seguin",9175990001,"San Fernando City"
+"Jared Marimla",9612455314,"Angeles City"
+"Aj Mendiola",9082356269,"Tarlac"
+"Divon Balajadia",9706666353,"Taguig"
+"Sean Salunga",9532862455,"Las Pinas"
+"Joshua Turla",9392671061,"Paranaque"
+"Christiene Sunga",9291154927,"Quezon City"

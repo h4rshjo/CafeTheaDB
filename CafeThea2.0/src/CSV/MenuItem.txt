@@ -1,0 +1,11 @@
+menuItemName,menuItemCost
+"Caldereta",2440
+"Steak n Potatoes",2840
+"Shanghai Rolls",1750
+"Cordon Bleu",2998
+"Soy Garlic Chicken",1350
+"Carbonara",1675
+"Pancit Canton",1200
+"Sweet n Sour Pork",2700
+"Beef Brocolli",2220
+"Liempo",1800
